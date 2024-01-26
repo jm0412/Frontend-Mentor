@@ -1,1 +1,1 @@
-Repo Contain Practice Challenges from frontendmentor.io
+Repo Contains Practice Challenges from frontendmentor.io
